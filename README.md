@@ -39,6 +39,7 @@ A 2D N-body gravitational simulation implemented in C++ using the Simple and Fas
 * **State Initialization:** Three coordinate bodies instantiate from rest (zero initial velocity), driven entirely by mutual gravitational attraction.
 
 **"Black-hole" Simulation**
+
 A 2D particle system that visually simulates an accretion disk around a central massive object. It renders 5,000 independent bodies subjected to a central gravitational well, utilizing SFML for high-performance graphics.
 
 **Technical Implementation**
