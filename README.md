@@ -1,4 +1,6 @@
 # SFML-anims
+https://github.com/user-attachments/assets/450d9622-e7cd-48bb-b648-10ad6ae99eb8
+
 Simple SFML based animations/physics models
 Made using SFML (Simple and Fast Multimedia library), an animation library for C++
 
@@ -17,6 +19,7 @@ sudo dnf install SFML-devel
 ```bash
 chmod +x animate
 ```
+
 **Run**
 ```bash
 ./animate 3bodyprob.cpp
