@@ -44,4 +44,4 @@ The physics engine calculates continuous centripetal acceleration for all 5,000 
 
 Instead of executing a hard screen clear each frame, the render loop draws a semi-transparent black overlay (alpha = 10). This creates continuous motion blur and visualizes the orbital paths without storing historical position data in memory.
 
-Utilizes Euler integration with a granular time step (`dt = 0.0001666`) to maintain orbital stability and minimize numerical drift over time.
+Utilizes Euler integration with a granular time step (dt = 0.0001666) to maintain orbital stability and minimize numerical drift over time.
