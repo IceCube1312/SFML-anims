@@ -30,6 +30,7 @@ chmod +x animate
 ```
 
 **N-body Sim**
+
 A 2D N-body gravitational simulation implemented in C++ using the Simple and Fast Multimedia Library (SFML). It models the chaotic orbital mechanics of three mutually interacting masses.
 
 **Technical Implementation**
